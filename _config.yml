@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Steven's Blog
+subtitle: Web Developer @SCMP. Living in Hong Kong
 description:
 keywords:
-author: John Doe
+author: Steven Zhao
 language:
 timezone:
 
@@ -78,4 +78,6 @@ theme: flexy
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:StevenZiu/stevenziu.github.io.git
+  branch: master
