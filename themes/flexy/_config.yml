@@ -1,10 +1,11 @@
 # config
 logo: /images/svdb.png
-keywords: "sjaak van den berg, svdb, bitcoin, crypto, payment, integration, bitcoins, wordpress, betaling, webshop, front end, design, ontwerp, developer"
-pubkey: 13DB CAA1 2633 81A7
+keywords: "stevenzhao, web, javascript, nodejs, blog, front end, backend, fullstack, developer"
+pubkey: 
 menu:
   Home: /
-  Articles: /articles
+  # Articles: /articles
+  Projects: /projects
   About: /about
 
 # Content
@@ -12,4 +13,4 @@ excerpt_link: Read more
 
 # Miscellaneous
 rss: /atom.xml
-google_analytics:
+google_analytics: UA-106933947-1
