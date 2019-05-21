@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1115px" height="326px" viewBox="0 0 1115 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>margin-collapse-self</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="180" y="120" width="275" height="42"></rect>
+        <filter x="-2.5%" y="-11.9%" width="105.1%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="180" y="164" width="275" height="42"></rect>
+        <filter x="-2.5%" y="-11.9%" width="105.1%" height="133.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="660" y="144" width="275" height="42"></rect>
+        <filter x="-2.5%" y="-11.9%" width="105.1%" height="133.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-4" transform="translate(0.000000, -2121.000000)">
+            <g id="margin-collapse-self" transform="translate(0.000000, 2121.000000)">
+                <polygon id="Rectangle-5-Copy-3" fill="#F5F5F5" points="0 0 1115 0 1115 326 0 326"></polygon>
+                <g id="Group-2" opacity="0.5" transform="translate(535.000000, 155.000000)">
+                    <g id="Group-3">
+                        <path d="M-6.82121026e-13,8 L42,8" id="Line" stroke="#9B9B9B" stroke-width="2" stroke-linecap="square"></path>
+                        <polygon id="Triangle" fill="#9B9B9B" transform="translate(39.000000, 8.000000) rotate(-270.000000) translate(-39.000000, -8.000000) " points="39 2 47 14 31 14"></polygon>
+                    </g>
+                </g>
+                <g id="Rectangle-2-Copy-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle-2-Copy-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Rectangle-2-Copy-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <rect id="Rectangle-Copy" stroke="#83FFC7" stroke-width="2" fill-opacity="0.2" fill="#2EEC96" x="181" y="161" width="273" height="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

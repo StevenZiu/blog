@@ -4,12 +4,12 @@
 
 # Site
 title: Steven's Blog
-subtitle: Web Developer @SCMP. Living in Hong Kong
-description:
-keywords:
+subtitle: Software Engineer @Amex. Living in Hong Kong
+description: Note on development
+keywords: Frontend, Software Engieer, Web, Mobile
 author: Steven Zhao
-language:
-timezone:
+language: English
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -43,16 +43,16 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: ""
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
