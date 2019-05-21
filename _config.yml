@@ -5,7 +5,7 @@
 # Site
 title: Steven's Blog
 subtitle: Software Engineer @Amex. Living in Hong Kong
-description: Note on development
+description: Summary of day to day development
 keywords: Frontend, Software Engieer, Web, Mobile
 author: Steven Zhao
 language: English
@@ -17,6 +17,9 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
+# Disqus
+disqus_shortname: steven369blog
 
 # Directory
 source_dir: source
